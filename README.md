@@ -29,6 +29,10 @@ The portfolio showcases my skills, projects, professional experience, technical 
 ---
 
 ## 🔥 Features
+Deploye link? :-  
+
+
+<h1>https://6a7b34d0755bc393872439a7--grand-piroshki-11be43.netlify.app/ </h1>
 
 ### 🎹 3D Interactive Skills
 

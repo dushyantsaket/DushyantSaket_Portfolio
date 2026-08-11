@@ -12,7 +12,7 @@ The portfolio showcases my skills, projects, professional experience, technical 
 
 ### 🏠 Hero Section
 
-![Dushyant Saket Portfolio](./preview/hero.png)
+<img src="C:\Users\dushy\OneDrive\Pictures\Screenshots\Screenshot 2026-08-11 184036.png">
 
 ### 🛠️ Skills Section
 

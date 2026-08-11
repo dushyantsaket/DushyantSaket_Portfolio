@@ -12,7 +12,7 @@ The portfolio showcases my skills, projects, professional experience, technical 
 
 ### 🏠 Hero Section
 
-<img src="C:\Users\dushy\OneDrive\Pictures\Screenshots\Screenshot 2026-08-11 184036.png">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1rF3L4q82_LhGeJxeDB-Th5xUdatOFz_73Hod4jzsLg&s=10">
 
 ### 🛠️ Skills Section
 

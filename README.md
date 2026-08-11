@@ -1,113 +1,562 @@
-![Portfolio Preview](https://github.com/Abhiz2411/3D-interactive-portfolio/blob/main/public/assets/seo/og-image.png?raw=true)
+# 🚀 Dushyant Saket — Full Stack Developer Portfolio
 
-# 🚀 My Portfolio Website
+Welcome to my personal portfolio website! 🎉
 
-Welcome to the repository for my personal portfolio website! 🎉 This project is a culmination of creativity, technology, and my dedication to showcasing my skills, projects, and personality in a visually stunning and interactive manner.
+This project is a combination of creativity, modern web technologies, interactive 3D experiences, smooth animations, and my journey as a **Full Stack Developer**.
 
-### Live preview: https://www.abhijitzende.com/
-
-![Preview](https://github.com/Abhiz2411/3D-interactive-portfolio/blob/main/public/assets/preview_video.gif?raw=true)
-
-https://github.com/Abhiz2411/3D-interactive-portfolio/blob/main/preview_video.mp4
-
-This project is **inspired** by the amazing work of [Naresh Khatri](https://github.com/Naresh-Khatri/Portfolio). His innovative approach to web design and attention to detail has been a huge influence. Thank you, Naresh! 🙏
-
-## 🔥 Features
-
-Here are the key highlights of my portfolio:
-
-### 🎹 **3D Interactive Animations**
-- Features a custom-made interactive keyboard built with **Spline**.
-- Each keycap represents a skill and reveals titles and descriptions on hover for an immersive experience.
-- Smooth, responsive 3D interactions that captivate visitors.
-
-### ✨ **Slick Interactions & Animations**
-- Powered by **GSAP** and **Framer Motion**, delivering buttery-smooth animations on scroll, hover, and element reveals.
-- Creative motion designs that enhance storytelling and keep users engaged.
-
-### 🌌 **Space-Themed Design**
-- Particles floating on a dark, cosmic background simulate an outer-space vibe.
-- Adds a unique and futuristic look to the portfolio.
-
-### 📱 **Responsive Design**
-- Fully responsive layout ensures the website looks and functions beautifully on all devices.
-- Optimized for both desktop and mobile experiences.
-
-### 🧠 **Innovative Web Design**
-- Combines cutting-edge technology with an intuitive user experience.
-- Creative use of animations and visuals to push the boundaries of modern web design.
-
-## 🛠️ Tech Stack
-
-The portfolio website is built using the following tools and technologies:
-
-- **Frontend:** Next.js, React, Tailwind CSS, Shadcn, Aceternity UI
-- **Animations:** GSAP, Framer Motion, Spline Runtime
-- **Other Tools:** Resend, Socket.io, Zod
-
-## 🌟 Getting Started
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Abhiz2411/3D-interactive-portfolio.git
-   ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd 3D-interactive-portfolio
-   ```
-
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-4. Set up environment variables:
-   ```bash
-   # Create a .env.local file in the root directory
-   touch .env.local
-
-   # Add your Resend API key
-   RESEND_API_KEY=your_resend_api_key_here
-   ```
-
-5. Start the development server:
-   ```bash
-   npm run dev
-   ```
-
-6. Open your browser and navigate to:
-   ```
-   http://localhost:3000
-   ```
-
-## 🚀 Deployment
-
-This project is deployed using **Vercel** for its blazing-fast performance and ease of use. You can view the live site [here](https://www.abhijitzende.com/).
-
-### Setting up Resend API on Vercel
-
-1. Sign up for a [Resend](https://resend.com) account and get your API key
-2. Go to your Vercel project settings
-3. Navigate to the "Environment Variables" section
-4. Add a new environment variable:
-   - Name: `RESEND_API_KEY`
-   - Value: Your Resend API key
-5. Save the changes and redeploy your application
-
-Note: Make sure to keep your API key secret and never commit it to your repository.
-
-## 💖 Acknowledgments
-
-A huge shoutout to [Naresh Khatri](https://github.com/Naresh-Khatri/Portfolio) for the inspiration and ideas that sparked this journey! 💡 If you're interested in creative web design, definitely check out his work.
-
-## 📬 Contact
-
-Feel free to reach out to me for collaboration, feedback, or just to say hi! 😊
-
-- **Email:** abhijitzende75@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/zende-abhijit/)
+The portfolio showcases my skills, projects, professional experience, technical interests, and the technologies I work with.
 
 ---
 
-⭐ If you like this project, don't forget to give it a star!
+## 🌐 Portfolio Preview
+
+### 🏠 Hero Section
+
+![Dushyant Saket Portfolio](./preview/hero.png)
+
+### 🛠️ Skills Section
+
+![Dushyant Saket Skills](./preview/skills.png)
+
+### 🚀 Projects Section
+
+![Dushyant Saket Projects](./preview/projects.png)
+
+---
+
+## 🔥 Features
+
+### 🎹 3D Interactive Skills
+
+- Interactive 3D keyboard-style skills section.
+- Built using **Spline**.
+- Technology icons are represented through interactive keycaps.
+- Interactive hover and mouse effects.
+- Smooth 3D animations for an immersive experience.
+
+### ✨ Smooth Animations & Interactions
+
+- GSAP animations.
+- Framer Motion animations.
+- Scroll-based reveal animations.
+- Smooth scrolling.
+- Interactive hover effects.
+- Modern page transitions.
+
+### 🌌 Space-Themed Design
+
+- Dark futuristic interface.
+- Animated particle background.
+- Modern cosmic visual experience.
+- Interactive UI elements.
+- Developer-focused visual design.
+
+### 📱 Responsive Design
+
+- Desktop responsive design.
+- Mobile responsive layout.
+- Optimized components.
+- Smooth experience across different screen sizes.
+
+### 🧠 Developer-Focused Portfolio
+
+The portfolio showcases:
+
+- About Me
+- Technical Skills
+- Projects
+- Professional Experience
+- System Design Knowledge
+- AI Integration
+- Resume
+- Contact Information
+
+---
+
+# 👨‍💻 About Me
+
+Hi, I'm **Dushyant Saket**, a **Full Stack Developer** focused on building scalable web applications, backend systems, RESTful APIs, and AI-powered applications.
+
+I work primarily with the **MERN Stack** and have experience with backend development, databases, Redis, AWS, system design, and AI integrations.
+
+My areas of interest include:
+
+- Full Stack Development
+- MERN Stack
+- Backend Development
+- RESTful API Development
+- System Design
+- Scalable Architecture
+- Microservices
+- Caching
+- Load Balancing
+- Redis
+- AWS
+- Agentic AI
+- n8n
+- OpenAI API
+- LLM Integration
+
+I enjoy building practical, scalable, secure, and user-friendly applications.
+
+---
+
+# 🛠️ Tech Stack
+
+## Frontend
+
+- Next.js
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Tailwind CSS
+- Shadcn UI
+- Aceternity UI
+
+## Backend
+
+- Node.js
+- Express.js
+- RESTful APIs
+- Firebase
+- Redis
+
+## Database
+
+- MongoDB
+- DBMS
+
+## AI & Automation
+
+- Agentic AI
+- n8n
+- OpenAI API
+- LLM Integration
+- AI-powered Feature Development
+
+## Cloud & Deployment
+
+- AWS S3
+- AWS CloudFront
+- AWS EC2
+- AWS Lambda
+- Hostinger
+- Docker
+
+## Animation & UI
+
+- GSAP
+- Framer Motion
+- Spline Runtime
+
+## Development Tools
+
+- Git
+- GitHub
+- Socket.io
+- Zod
+
+---
+
+# 💼 Professional Experience
+
+## Full Stack Developer Intern — SURE Trust | Gulf News
+
+**2025 – 2026**
+
+- Built full-stack applications using React.js, Node.js, Express.js, MongoDB, and Redis.
+- Designed RESTful APIs and scalable backend services.
+- Integrated Agentic AI and n8n APIs for intelligent features.
+- Worked with Docker for application containerization.
+- Worked with AWS Lambda for deployment.
+- Participated in sprint-based development.
+
+---
+
+## Frontend Developer Intern — OLAcademy
+
+**2024 – 2025**
+
+- Built responsive React.js user interfaces.
+- Worked with Node.js, Express.js, and MongoDB.
+- Delivered mobile-first and pixel-perfect designs.
+- Improved frontend performance using lazy loading and code splitting.
+
+---
+
+# 🚀 Featured Projects
+
+## 🛠️ DPT Tools Touch — Enterprise Power Tools Platform
+
+**Tech Stack:**
+
+`React.js` `Node.js` `Express.js` `MongoDB` `Redis` `AWS`
+
+A full-stack power tools e-commerce and business management platform.
+
+### Key Features
+
+- Product catalog
+- Product management
+- Inventory management
+- Order management
+- Enterprise Admin Dashboard
+- Role-Based Access Control
+- User management
+- Order tracking
+- Sales analytics
+- Employee activity monitoring
+- JWT authentication
+- Redis session management
+- OTP verification
+- Google OAuth
+- Rate limiting
+- Activity logging
+
+The platform is designed to provide a complete business management solution with secure authentication, scalable backend services, and enterprise-level administration.
+
+---
+
+# ☁️ Storage App — Cloud Storage Platform
+
+**Tech Stack:**
+
+`React.js` `Node.js` `Express.js` `MongoDB` `Redis` `AWS S3` `AWS CloudFront`
+
+A cloud storage platform designed for secure file management, sharing, and subscription-based storage.
+
+### Key Features
+
+- Secure file upload
+- File management
+- File sharing
+- Real-time storage tracking
+- Subscription-based storage
+- Webhook verification
+- Plan upgrades
+- Plan downgrades
+- Subscription cancellation
+- Automatic quota enforcement
+- Admin Dashboard
+- Super Admin Dashboard
+- User management
+- Session management
+- Soft deletion
+- Hard deletion
+- AWS S3 storage
+- CloudFront CDN
+- Google Drive import
+- OAuth authentication
+- OTP authentication
+- Redis-backed sessions
+- Rate limiting
+- Activity tracking
+
+---
+
+# 🎓 Education
+
+## Oriental University, Indore
+
+**B.Sc. Computer Science — 2023–2026**
+
+### Coursework
+
+- DBMS
+- Operating Systems
+- Computer Networks
+- Frontend Development
+- Backend Development
+- Databases
+
+### System Design
+
+- Scalable Architecture
+- Microservices
+- Caching
+- Load Balancing
+
+---
+
+# 🧠 System Design
+
+I am interested in designing scalable and reliable backend systems.
+
+### Areas of Focus
+
+- Scalable Architecture
+- Microservices
+- Caching
+- Load Balancing
+- RESTful APIs
+- Redis
+- AWS S3
+- Cloud-based systems
+- Backend scalability
+- Secure authentication
+
+---
+
+# 🤖 AI & Automation
+
+I am also focused on integrating modern AI technologies into web applications.
+
+### Technologies
+
+- Agentic AI
+- n8n
+- OpenAI API
+- LLM Integration
+- AI-powered Feature Development
+
+I am interested in building AI-powered features that improve automation, productivity, and user experience.
+
+---
+
+# 📜 Certifications
+
+I have completed **8+ certifications**, including certification in:
+
+- AWS Cloud
+- Web Development
+- Backend Development
+- Modern Development Technologies
+
+---
+
+# 🌟 Getting Started
+
+## 1. Clone the Repository
+
+```bash
+git clone https://github.com/dushyantsaket/DushyantSaket_Portfolio.git
+```
+
+## 2. Navigate to the Project
+
+```bash
+cd DushyantSaket_Portfolio
+```
+
+## 3. Install Dependencies
+
+```bash
+npm install
+```
+
+## 4. Create Environment Variables
+
+Create a `.env.local` file in the root directory:
+
+```env
+RESEND_API_KEY=your_resend_api_key_here
+```
+
+> ⚠️ Never commit API keys or secret credentials to GitHub.
+
+## 5. Start Development Server
+
+```bash
+npm run dev
+```
+
+## 6. Open in Browser
+
+```text
+http://localhost:3000
+```
+
+---
+
+# 🔐 Environment Variables
+
+This project may use environment variables for services such as email functionality.
+
+Create:
+
+```text
+.env.local
+```
+
+Example:
+
+```env
+RESEND_API_KEY=your_resend_api_key_here
+```
+
+### Important
+
+Never upload:
+
+```text
+.env
+.env.local
+.env.production
+```
+
+or any file containing:
+
+- API keys
+- Passwords
+- Access tokens
+- Secret keys
+- Database credentials
+
+Make sure these files are included in `.gitignore`.
+
+---
+
+# 🚀 Deployment
+
+This Next.js portfolio can be deployed using **Vercel**.
+
+## Deployment Steps
+
+### 1. Push Project to GitHub
+
+```bash
+git add .
+git commit -m "Update portfolio"
+git push
+```
+
+### 2. Connect GitHub Repository
+
+Create a project on Vercel and import:
+
+```text
+DushyantSaket_Portfolio
+```
+
+### 3. Configure Environment Variables
+
+In your deployment project's environment variables, add:
+
+```text
+RESEND_API_KEY
+```
+
+with your actual API key as the value.
+
+### 4. Deploy
+
+Vercel will automatically:
+
+- Install dependencies
+- Build the Next.js application
+- Deploy the project
+- Generate a production URL
+
+### 5. Automatic Deployment
+
+After connecting the GitHub repository, future pushes can automatically trigger a new deployment.
+
+```bash
+git add .
+git commit -m "Update portfolio"
+git push
+```
+
+---
+
+# 📄 Resume
+
+My resume is included inside the project assets.
+
+```text
+public/assets/Dushyant-Saket-Resume.html
+```
+
+---
+
+# 📬 Contact
+
+## Dushyant Saket
+
+**Full Stack Developer | MERN Stack | AI Integration | System Design**
+
+📧 **Email:**  
+dushyantsaket20@gmail.com
+
+💻 **GitHub:**  
+https://github.com/dushyantsaket
+
+🔗 **LinkedIn:**  
+Add your LinkedIn profile URL here
+
+🌐 **Portfolio:**  
+Add your live portfolio URL here
+
+---
+
+# 🤝 Open to Opportunities
+
+I am interested in opportunities related to:
+
+- Full Stack Development
+- MERN Stack Development
+- Backend Development
+- Node.js Development
+- React.js Development
+- AI Integration
+- Agentic AI
+- REST API Development
+- System Design
+- Scalable Web Applications
+
+---
+
+# 🙏 Acknowledgements
+
+This portfolio is built using modern open-source technologies and interactive web development techniques.
+
+The design combines:
+
+- 3D experiences
+- Modern animations
+- Interactive UI
+- Space-themed visuals
+- Developer-focused presentation
+
+The portfolio has been customized for **Dushyant Saket** with my own skills, projects, experience, and professional information.
+
+---
+
+# ⭐ Support
+
+If you like this portfolio, feel free to give the repository a ⭐ on GitHub.
+
+---
+
+## 🚀 Built With
+
+```text
+Next.js
+React.js
+Tailwind CSS
+GSAP
+Framer Motion
+Spline
+Node.js
+Express.js
+MongoDB
+Redis
+AWS
+Docker
+Agentic AI
+n8n
+OpenAI API
+```
+
+---
+
+### 👨‍💻 Dushyant Saket
+
+**Full Stack Developer | MERN Stack | AI Integration | System Design**
+
+📧 dushyantsaket20@gmail.com
+
+💻 https://github.com/dushyantsaket
+
+⭐ Thanks for visiting my portfolio repository!

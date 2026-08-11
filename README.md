@@ -12,15 +12,19 @@ The portfolio showcases my skills, projects, professional experience, technical 
 
 ### 🏠 Hero Section
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1rF3L4q82_LhGeJxeDB-Th5xUdatOFz_73Hod4jzsLg&s=10">
+<img src="https://media.licdn.com/dms/image/v2/D5622AQFzrUoPzZz8Gw/feedshare-shrink_1280/B56Z_yDox4GcAM-/0/1786472467869?e=1787788800&v=beta&t=xU-K6s625ZOmayS9TXUhYtQGU0WBS2cx4E86JVJZ5bY">
 
 ### 🛠️ Skills Section
 
-![Dushyant Saket Skills](./preview/skills.png)
+<img  src="https://media.licdn.com/dms/image/v2/D5622AQEG-dMD6npSyQ/feedshare-shrink_1280/B56Z_yDpgOGgAQ-/0/1786472470824?e=1787788800&v=beta&t=drsf9qfzgxPjQQxqQlHrB3YMyz-3JR9HOUSqMEfBC3Q">
+
+
+
+<img src="https://media.licdn.com/dms/image/v2/D5622AQFS-q5mTmco8w/feedshare-shrink_1280/B56Z_yDpNrGQAM-/0/1786472469636?e=1787788800&v=beta&t=RJq3tGNtWJzi-TvaMg27TRTR4WG-WOF1aFZEJJz9wfs">
 
 ### 🚀 Projects Section
 
-![Dushyant Saket Projects](./preview/projects.png)
+<img src="https://media.licdn.com/dms/image/v2/D5622AQE5YVv0UgzH-g/feedshare-shrink_1280/B56Z_yDpJYJMAQ-/0/1786472469334?e=1787788800&v=beta&t=NPxqFKu9DDM1d53t5Rv0HteMKGlT-I18tqSao7YI7Ek"> 
 
 ---
 
